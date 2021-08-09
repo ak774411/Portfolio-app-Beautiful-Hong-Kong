@@ -5,11 +5,7 @@
   "scripts": {
     "start": "node ./bin/www",
     "client": "npm start --prefix client",
-    "dev": "concurrently \"npm start\" \"npm run client\"",
-    "build": "cd client && npm run build",
-    "install-client": "cd client && npm install",
-    "heroku-postbuild": "npm run install-client"
-
+    "dev": "concurrently \"npm start\" \"npm run client\""
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
