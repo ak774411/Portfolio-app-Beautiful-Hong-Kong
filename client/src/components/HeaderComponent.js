@@ -107,7 +107,7 @@ class Header extends Component {
                         </Collapse>
                     </div>
                 </Navbar>
-                <Jumbotron style="background-image: url(http://www.chengyuenming.com/images/wallpaper.jpeg);">
+                <Jumbotron>
                     <div className="container">
                         <div className="row row-header">
                             <div className="col-12 col-sm-6">
