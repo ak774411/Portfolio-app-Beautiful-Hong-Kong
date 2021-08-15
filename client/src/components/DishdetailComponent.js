@@ -30,6 +30,10 @@ import { FadeTransform, Fade, Stagger } from 'react-animation-components';
                                 <CardTitle>{dish.name}</CardTitle>
                                 <CardText>{dish.description}</CardText>
                                 <CardText><strong>Distance:</strong> {dish.Distance}</CardText>
+                                <CardText><strong>Duration:</strong> {dish.Duration}</CardText>
+                                <CardText><strong>Difficulty:</strong> {dish.Difficulty}</CardText>
+                                <CardText><strong>How to get there:</strong> {dish.transport}</CardText>
+
                             </CardBody>
                         </Card>
                     </FadeTransform>
