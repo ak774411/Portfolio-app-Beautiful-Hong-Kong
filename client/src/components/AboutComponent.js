@@ -74,7 +74,6 @@ function About(props) {
                 <div className="col-12 col-md-6">
                     <h2>My History</h2>
                     <p>Hi, I’m Micahel and i am Full Stack Web Developer. It's been 2 years, I’m working as web developer.I have developed website in gobybus.hk and also fond of hiking, I am going to build a website providing hiking information for any hiking enthusiasts by using react js and node js. </p>
-                    <p>The restaurant traces its humble beginnings to <em>The Frying Pan</em>, a successful chain started by our CEO, Mr. Peter Pan, that featured for the first time the world's best cuisines in a pan.</p>
                 </div>
                 <div className="col-12 col-md-5">
                     <Card>
