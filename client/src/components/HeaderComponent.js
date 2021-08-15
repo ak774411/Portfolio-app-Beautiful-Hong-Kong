@@ -4,7 +4,7 @@ import { Navbar, NavbarBrand, Nav, NavbarToggler, Collapse, NavItem, Jumbotron,
     Form, FormGroup, Input, Label } from 'reactstrap';
 import { NavLink } from 'react-router-dom';
 
-const bgImage = 'assets/images/wallpaper.jpeg';
+const bgImage = 'assets/images/wallpapers.jpeg';
 
 const styles = {
     container: {
@@ -52,7 +52,7 @@ class Header extends Component {
     render() {
         return(
             <React.Fragment>
-                <Navbar dark expand="md">
+                <Navbar dark expand="md" style={{ background:grey }} >
                     <div className="container">
                         <NavbarToggler onClick={this.toggleNav} />
                         <NavbarBrand className="mr-auto" href="/">
