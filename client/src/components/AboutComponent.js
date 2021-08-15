@@ -66,14 +66,14 @@ function About(props) {
                     <BreadcrumbItem active>About Us</BreadcrumbItem>
                 </Breadcrumb>
                 <div className="col-12">
-                    <h3>About Us</h3>
+                    <h3>About Me</h3>
                     <hr />
                 </div>                
             </div>
             <div className="row row-content">
                 <div className="col-12 col-md-6">
-                    <h2>Our History</h2>
-                    <p>Started in 2010, Ristorante con Fusion quickly established itself as a culinary icon par excellence in Hong Kong. With its unique brand of world fusion cuisine that can be found nowhere else, it enjoys patronage from the A-list clientele in Hong Kong.  Featuring four of the best three-star Michelin chefs in the world, you never know what will arrive on your plate the next time you visit us.</p>
+                    <h2>My History</h2>
+                    <p>Hi, I’m Micahel and i am Full Stack Web Developer. It's been 2 years, I’m working as web developer.I have developed website in gobybus.hk and also fond of hiking, I am going to build a website providing hiking information for any hiking enthusiasts by using react js and node js. </p>
                     <p>The restaurant traces its humble beginnings to <em>The Frying Pan</em>, a successful chain started by our CEO, Mr. Peter Pan, that featured for the first time the world's best cuisines in a pan.</p>
                 </div>
                 <div className="col-12 col-md-5">
@@ -82,13 +82,13 @@ function About(props) {
                         <CardBody>
                             <dl className="row p-1">
                                 <dt className="col-6">Started</dt>
-                                <dd className="col-6">3 Feb. 2013</dd>
-                                <dt className="col-6">Major Stake Holder</dt>
-                                <dd className="col-6">HK Fine Foods Inc.</dd>
+                                <dd className="col-6">3 June. 2021</dd>
+                                <dt className="col-6">Creater</dt>
+                                <dd className="col-6">Cheng Yuen Ming</dd>
                                 <dt className="col-6">Last Year's Turnover</dt>
-                                <dd className="col-6">$1,250,375</dd>
+                                <dd className="col-6">0</dd>
                                 <dt className="col-6">Employees</dt>
-                                <dd className="col-6">40</dd>
+                                <dd className="col-6">1</dd>
                             </dl>
                         </CardBody>
                     </Card>
@@ -97,11 +97,9 @@ function About(props) {
                     <Card>
                         <CardBody className="bg-faded">
                             <blockquote className="blockquote">
-                                <p className="mb-0">You better cut the pizza in four pieces because
-                                    I'm not hungry enough to eat six.</p>
-                                <footer className="blockquote-footer">Yogi Berra,
-                                <cite title="Source Title">The Wit and Wisdom of Yogi Berra,
-                                    P. Pepe, Diversion Books, 2014</cite>
+                                <p className="mb-0">There are plateus, but you must not stay there, you must go beyond them. If it kills you, it kills you. A man must constantly exceed his level.</p>
+                                <footer className="blockquote-footer">Bruce Lee,
+                                <cite title="Source Title">Speech of Bruce Lee</cite>
                                 </footer>
                             </blockquote>
                         </CardBody>

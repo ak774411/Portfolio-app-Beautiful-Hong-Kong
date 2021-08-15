@@ -118,7 +118,7 @@ class Header extends Component {
                 <Jumbotron style={styles.container}>
                     <div className="container">
                         <div className="row row-header">
-                            <div className="col-12 col-sm-6">
+                            <div className="col-12 col-sm-8">
                                 <h1>Beautiful hong kong hiking trail</h1>
                                 <p>Hi! I am hiking enthusiast, I am building a website sharing different trail famous in Hong Kong. Let me introduce more hiking trails not discovered yet in Hong Kong!</p>
                             </div>
