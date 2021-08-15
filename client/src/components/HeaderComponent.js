@@ -4,6 +4,14 @@ import { Navbar, NavbarBrand, Nav, NavbarToggler, Collapse, NavItem, Jumbotron,
     Form, FormGroup, Input, Label } from 'reactstrap';
 import { NavLink } from 'react-router-dom';
 
+const bgImage = '../../public/assets/images/wallpaper.jpeg';
+
+const styles = {
+    container: {
+    backgroundImage: `url(${bgImage})`
+  }
+};
+
 class Header extends Component {
 
     constructor(props) {
@@ -107,7 +115,7 @@ class Header extends Component {
                         </Collapse>
                     </div>
                 </Navbar>
-                <Jumbotron>
+                <Jumbotron style={styles.container}>
                     <div className="container">
                         <div className="row row-header">
                             <div className="col-12 col-sm-6">
