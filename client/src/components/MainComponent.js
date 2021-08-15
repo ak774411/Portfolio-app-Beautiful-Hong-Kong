@@ -68,7 +68,7 @@ class Main extends Component {
 
     const DishWithId = ({match}) => {
       return(
-        this.props.auth.isAuthenticated && this.props.favorites != null
+        this.props.auth.isAuthenticated && this.props.favorites.favorites != null
         ?
         <DishDetail dish={this.props.dishes.dishes.filter((dish) => dish._id === match.params.dishId)[0]}
           isLoading={this.props.dishes.isLoading}
