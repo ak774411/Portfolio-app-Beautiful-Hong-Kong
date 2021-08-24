@@ -1,1 +1,1 @@
-export const baseUrl = 'http://www.chengyuenming.com/';
+export const baseUrl = 'http://localhost:3000/';

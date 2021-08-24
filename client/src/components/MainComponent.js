@@ -3,7 +3,7 @@ import Home from './HomeComponent';
 import About from './AboutComponent';
 import Menu from './MenuComponent';
 import Contact from './ContactComponent';
-import DishDetail from './DishdetailComponent';
+import DishDetail from './TrailDetailComponent';
 import Favorites from './FavoriteComponent';
 import Header from './HeaderComponent';
 import Footer from './FooterComponent';
