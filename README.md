@@ -6,7 +6,7 @@
 Beautiful Hong Kong is a Node.Js Mern App for sharing hong kong hiking trails.
 
 ## Introduction
-This is a code repository for my website - https://www.chengyuenming.com/home .
+This is a code repository for my website - http://www.chengyuenming.com/home .
 
 Using React, Redux, Node.js, Express & MongoDB to build a Full Stack MERN Application - from start to finish. The App is called "Beautiful Hong Kong" and it is a CMS website that allows users to post comments and add their favorite hiking trails.
 
