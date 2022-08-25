@@ -22,7 +22,7 @@ Setup:
 Use git clone https://github.com/ak774411/Portfolio-app-Beautiful-Hong-Kong.git to install Beautiful Hong Kong.
 
 ```bash
-git https://github.com/ak774411/Portfolio-app-Beautiful-Hong-Kong.git
+git clone https://github.com/ak774411/Portfolio-app-Beautiful-Hong-Kong.git
 ```
 
 ## Directory Tree
